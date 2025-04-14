@@ -96,7 +96,7 @@ Contributions to improve the Library Management System are welcome. Please follo
 
 1. Fork the repository:
    ![fork](https://github.com/user-attachments/assets/40a18cf5-031e-4134-bd73-e87cf22b57aa)
-2. Clone the fork (`git clone repository_link`)
+2. Clone the fork (`git clone https://github.com/Diogo-Rodriigues/LibraryManagementSystem-Cpp.git`)
 3. Navigate to the project directory (`cd LibraryManagementSystem-Cpp`)
 4. Create a new branch (`git checkout -b feature/feature_name`)
 5. Make your changes
